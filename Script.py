@@ -63,7 +63,7 @@ Note:- Give a user details
   
 <b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
 
-<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/Jasim_vahab>JASIM</a></b>
+<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝐓𝐨𝐦 𝐚𝐧𝐝 𝐉𝐞𝐫𝐫𝐲 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/Jasim_vahab>JASIM</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Jasim_vahab><b>JASIM</b></a>"""
@@ -88,7 +88,7 @@ Note:- Give a user details
 <b>Commands</b>
 ››  /song Song Name
 
-<b>📝 Credits :- <a href=https://t.me/MovieHubOtt>MH-Updates</a></b>"""
+<b>📝 Credits :- <a href=https://t.me/Jasim_vahab>JASIM</a></b>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 
 <b>Pin A Message../</b>
