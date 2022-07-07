@@ -41,8 +41,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+NeK_dvXeatwyMWRl'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Coby_Support')
+            InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/moviecompanyupdates'),
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -87,8 +87,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+NeK_dvXeatwyMWRl'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Coby_Support')
+            InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/moviecompanyupdates'),
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
