@@ -29,9 +29,9 @@ Welcome to Help Area 3 🎁</b>"""
 
 📃 𝖲ᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/Jasim_vahab'>Click here</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Themovie_company'>𝖬𝖧 ʙᴏᴛs</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Themovie_company'>GROUP</a>
 
-📢 𝖴ᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/moviecompanyupdates'>𝖬𝖧 ʙᴏᴛs</a></b>"""
+📢 𝖴ᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/moviecompanyupdates'>UPDATES</a></b>"""
     
     FILE_TXT = """➤ Help: File Store Module..🛃
 
