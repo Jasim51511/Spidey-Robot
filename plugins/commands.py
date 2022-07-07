@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ 👥', url=f"https://t.me/Coby_Support")
+                InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ 👥', url=f"https://t.me/moviecompanyupdates")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+NeK_dvXeatwyMWRl'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Coby_Support')
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+NeK_dvXeatwyMWRl'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Coby_Support')
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
