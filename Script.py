@@ -17,7 +17,7 @@ Welcome to Help Area 3 🎁</b>"""
     SPSHIVA3_TXT = """<b><i>This Is The Module Page Info</i>
 
 🔰 Your Taken Page Is 3/3 📖</b>"""
-    ABOUT_TXT = """<b>🤖 𝖡ᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/Spidey_Autofilterbot'>sᴘɪᴅᴇʏ</a>
+    ABOUT_TXT = """<b>🤖 𝖡ᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/Tomandjerry1_bot'>𝐓𝐨𝐦 𝐚𝐧𝐝 𝐉𝐞𝐫𝐫𝐲</a>
 
 📝 𝖫ᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>𝖯ʏᴛʜᴏɴ</a>
 
