@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/moviecompanyupdates'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Jasim_vahab')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('📣 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/moviecompanyupdates'),
-            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Themovie_company')
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Jasim_vahab')
             ],[      
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
