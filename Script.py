@@ -25,7 +25,7 @@ Welcome to Help Area 3 🎁</b>"""
 
 📡 𝖧ᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>𝖧ᴇʀᴏᴋᴜ</a>
 
-👨‍💻 𝖣ᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/Jasim_vahab'>JASIM</a>
+👨‍💻 𝖣ᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/Jasim_vahab'>ᴊᴀꜱɪᴍ</a>
 
 📃 𝖲ᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/Jasim_vahab'>Click here</a>
 
